@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding Test_두수의 곱", "Coding Test_두수의 곱.csproj", "{F6E9B461-854A-4A5A-A714-EE2206B0B760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E9B461-854A-4A5A-A714-EE2206B0B760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E9B461-854A-4A5A-A714-EE2206B0B760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E9B461-854A-4A5A-A714-EE2206B0B760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E9B461-854A-4A5A-A714-EE2206B0B760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F2A57E-2123-44D1-B45C-64CB517719D3}
+	EndGlobalSection
+EndGlobal
