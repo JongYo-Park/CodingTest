@@ -1,0 +1,14 @@
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\bin\Debug\net8.0\CodingTest_두수의 합.exe
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\bin\Debug\net8.0\CodingTest_두수의 합.deps.json
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\bin\Debug\net8.0\CodingTest_두수의 합.runtimeconfig.json
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\bin\Debug\net8.0\CodingTest_두수의 합.dll
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\bin\Debug\net8.0\CodingTest_두수의 합.pdb
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\obj\Debug\net8.0\CodingTest_두수의 합.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\obj\Debug\net8.0\CodingTest_두수의 합.AssemblyInfoInputs.cache
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\obj\Debug\net8.0\CodingTest_두수의 합.AssemblyInfo.cs
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\obj\Debug\net8.0\CodingTest_두수의 합.csproj.CoreCompileInputs.cache
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\obj\Debug\net8.0\CodingTest_두수의 합.dll
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\obj\Debug\net8.0\refint\CodingTest_두수의 합.dll
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\obj\Debug\net8.0\CodingTest_두수의 합.pdb
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\obj\Debug\net8.0\CodingTest_두수의 합.genruntimeconfig.cache
+D:\Kyungil Academy\Coding Test\CodingTest_두수의 합\obj\Debug\net8.0\ref\CodingTest_두수의 합.dll
